@@ -1,2 +1,2 @@
 # test-site
-Sample site to test cookies
+This is a sample site to test cookies
