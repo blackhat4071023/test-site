@@ -14,3 +14,9 @@
 		
 	</body>
 </html>
+
+<?php
+
+echo 'Testing';
+
+?>
